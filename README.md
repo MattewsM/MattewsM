@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM&show_icons=true&bg_color=00000000&layout=donut-vertical)
 
-<img align="right" alt="Hatsune Miku Dancing" src="https://media.tenor.com/vPFtaB5dwjSAAAAC/hatsune-miku-dance.gif" width="200"/>
+<img align="right" alt="Belle Coffee" src="https://tenor.com/vPFtaB5dwjS.gif" width="200"/>
 
 ##
 
