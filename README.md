@@ -5,7 +5,11 @@ Olá, seja bem-vindo! Sou o Mateus a.k.a MattewsM 😼
 
   
   ##
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattewsM)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattewsM&show_icons=true&bg_color=00000000)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
