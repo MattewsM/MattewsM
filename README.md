@@ -7,7 +7,7 @@ Olá, seja bem-vindo! Sou o Mateus a.k.a MattewsM 😼
   ##
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattewsM&show_icons=true&bg_color=00000000)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM&show_icons=true&bg_color=00000000)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM&show_icons=true&bg_color=00000000)
 
  
 <div> 
