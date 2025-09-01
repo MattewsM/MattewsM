@@ -6,15 +6,15 @@
   🇨🇳 Nǐ hǎo huānyíng! Wǒ shì Mateus, yě jiào MattewsM  <br><br>
   🎓 I'm currently a student of the <strong>.NET</strong> platform and <strong>C#</strong> programming language.<br>  
 </p>  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MattewsM&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
   <img src="belle-zzz.gif" alt="Belle Coffee" width="200" />
-</p
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM&layout=donut-vertical&langs_count=8&theme=transparent" alt="Top Langs" width="250"/>
 </div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM&layout=donut-vertical&langs_count=8&theme=transparent" alt="Top Langs" width="250"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api?username=MattewsM&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+</p
+
 
 
 
