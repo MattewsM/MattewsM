@@ -13,7 +13,7 @@
   <img src="belle-zzz.gif" alt="Belle Coffee" width="200" />
 </p
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM&show_icons=true&bg_color=00000000&layout=donut-vertical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattewsM&layout=donut-vertical&langs_count=8&theme=transparent" alt="Top Langs" />
 </div>
 
 
