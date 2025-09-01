@@ -12,7 +12,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-   <img src="belle-zzz.gif" alt="Belle Coffee" width="250" />
+   <img src="belle-zzz.gif" alt="Belle Coffee" width="200" />
 </p
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=MattewsM&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
